@@ -1,0 +1,28 @@
+h3{
+    background-color: rgb(165, 225, 247);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: rgb(32, 44, 75);
+}
+
+.note{
+font-size: 15px;
+}
+p{
+    font-size: 20px;
+}
+
+.footer{
+    bottom:0;
+    width:100%;
+    position: fixed;
+    background-color: lightsteelblue;
+    color: rgb(50, 76, 50);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+canvas{
+    background-color: lavenderblush;
+    border-radius: 20px;
+    border-style:double;
+}
